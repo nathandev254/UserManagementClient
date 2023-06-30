@@ -1,0 +1,6 @@
+.Sidebar--container{
+    /* border: 1px solid red; */
+    min-height: 100vh;
+    background-color:hsla(234, 64%, 26%, 0.511);
+}
+

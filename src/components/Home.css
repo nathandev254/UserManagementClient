@@ -1,0 +1,20 @@
+.Home--container{
+    display: flex;
+    width: calc(100vw - 300px);
+}
+.Home--container div {
+    height: 200px;
+    width: 33%;
+    margin:  10px;
+    color: #fff;
+    border-radius: 10px;
+}
+.container--1{
+    background-color: #70367C;
+}
+.container--2{
+    background-color: #95CFD5;
+}
+.container--3{
+    background-color: #FD7E50;
+}

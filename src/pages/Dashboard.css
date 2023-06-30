@@ -1,0 +1,7 @@
+.Dashboard {
+  min-height: 100vh;
+  display: flex;
+  width: 100%;
+  background: #c9d6ff;
+  background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+}

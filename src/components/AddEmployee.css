@@ -1,0 +1,33 @@
+.Add--Employee {
+  align-items: stretch;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(100vw - 300px);
+}
+.form {
+  gap: 20px;
+  width: 50%;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin: 10px auto;
+  width: 50%;
+}
+
+.Submit{
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #18206f;
+    color: #fff;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
