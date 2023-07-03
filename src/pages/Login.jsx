@@ -52,21 +52,21 @@ function Login() {
             type="text"
             name=""
             id=""
-            placeholder="username"
+            placeholder="username = kevin23"
             {...register("username")}
           />
           <input
             type="password"
             name=""
             id=""
-            placeholder="password"
+            placeholder="password = 123456789"
             {...register("password")}
           />
           <input
             type="password"
             name=""
             id=""
-            placeholder="confirmpassword"
+            placeholder="confirmpassword = 123456789"
             {...register("confirmpassword")}
           />
           <div className="checkbox-container">
